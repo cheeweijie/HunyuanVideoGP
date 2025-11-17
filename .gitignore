@@ -1,2 +1,6 @@
 __pycache__
 /ckpts/**/
+gradio_outputs/
+i2v_images/
+long_video_snippets/
+latent.pt
